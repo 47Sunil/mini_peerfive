@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 
 mongoose
   .connect(
-    "mongodb+srv://testmemail777:cnCgdAf4nGhyiyKI@cluster0.pd0bjo3.mongodb.net/mini_peerfives",
+    "  ", // your url
     {
       useNewUrlParser: true,
     }
